@@ -1,5 +1,5 @@
 # Accenture Program
-<a href="https://public.tableau.com/views/SocialBuzzAnalyticsDashboard_16851832644570/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">POWER BI LINK</a> <br>
+<a href="https://public.tableau.com/views/SocialBuzzAnalyticsDashboard_16851832644570/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link">POWER BI</a> <br>
 <a href="https://public.tableau.com/views/SocialBuzzAnalyticsDashboard_16851832644570/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://medium.com/@basharaaina/harnessing-data-insights-for-effective-content-strategy-a-case-study-in-social-media-analytics-20b39f3f2411)">MEDIUM</a>
 
 
