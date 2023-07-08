@@ -1,3 +1,3 @@
 # Accenture Program
 
-![Alt text](/posts/path/Image/Accenture-Dashboard.jpg "Dasboard")
+![Alt text](/Image/Accenture-Dashboard.jpg "Dasboard")
